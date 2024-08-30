@@ -1,4 +1,4 @@
-# Gen AI Foundations 
+# Gen AI Foundations (Work in Progress repo)
 
 Welcome to the Gen AI Foundations Training repository! This repo aims to provide Data Scientists with a comprehensive understanding of key tools necessary to build a strong toolkit in Generative AI. It covers the following topics:
 
